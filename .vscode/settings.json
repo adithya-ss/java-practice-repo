@@ -1,0 +1,6 @@
+{
+    "java.project.sourcePaths": [
+        "java-interfaces/src",
+        "java-abstractions/src"
+    ]
+}
