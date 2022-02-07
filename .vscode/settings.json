@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "java-interfaces/src",
-        "java-abstractions/src"
+        "java-abstractions/src",
+        "java-object-finalize/src"
     ]
 }
