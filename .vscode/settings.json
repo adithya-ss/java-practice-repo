@@ -4,6 +4,7 @@
         "java-interfaces/src",
         "java-encapsulation/src",
         "java-abstractions/src",
-        "java-polymorphism/src"
+        "java-polymorphism/src",
+        "java-arrays/src"
     ]
 }
