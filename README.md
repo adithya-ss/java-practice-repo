@@ -7,3 +7,4 @@ Feb 7th, 2022 - Finalize method of the Object class. <br />
 Feb 8th, 2022 - Encapsulation. <br />
 Feb 9th, 2022 - Polymorphism. <br />
 Feb 10th, 2022 - 1D and 2D Arrays. <br />
+Feb 12th, 2022 - ArrayList. <br />

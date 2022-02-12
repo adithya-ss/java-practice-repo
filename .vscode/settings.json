@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "java-polymorphism/src",
         "java-object-finalize/src",
         "java-interfaces/src",
         "java-encapsulation/src",
+        "java-arrays/src",
         "java-abstractions/src",
-        "java-polymorphism/src",
-        "java-arrays/src"
+        "java-arraylist/src"
     ]
 }
