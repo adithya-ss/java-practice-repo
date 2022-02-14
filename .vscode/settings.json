@@ -8,6 +8,7 @@
         "java-arrays/src",
         "java-arraylist/src",
         "java-abstractions/src",
-        "java-deserialization/src"
+        "java-deserialization/src",
+        "java-super-keyword/src"
     ]
 }
