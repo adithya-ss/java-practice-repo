@@ -1,15 +1,17 @@
 {
     "java.project.sourcePaths": [
+        "java-super-keyword/src",
         "java-serialization/src",
         "java-polymorphism/src",
         "java-object-finalize/src",
         "java-interfaces/src",
+        "java-generics/src",
+        "java-enums/src",
         "java-encapsulation/src",
+        "java-deserialization/src",
         "java-arrays/src",
         "java-arraylist/src",
         "java-abstractions/src",
-        "java-deserialization/src",
-        "java-super-keyword/src",
-        "java-generics/src"
+        "java-recursion/src"
     ]
 }
