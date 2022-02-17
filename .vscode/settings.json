@@ -12,6 +12,7 @@
         "java-arrays/src",
         "java-arraylist/src",
         "java-abstractions/src",
-        "java-recursion/src"
+        "java-recursion/src",
+        "java-hashmap/src"
     ]
 }
