@@ -12,3 +12,5 @@ Feb 13th, 2022 - Serializtion and Deserialization. <br />
 Feb 14th, 2022 - Super keyword. <br />
 Feb 15th, 2022 - Generics. <br />
 Feb 16th, 2022 - Enums and recursions. <br />
+Feb 17th, 2022 - Hashmap and its functions. <br />
+Feb 18th, 2022 - Exceptions. <br />
